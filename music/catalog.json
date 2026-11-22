@@ -35,6 +35,23 @@
       ]
     },
     {
+      "title": "Taylor Swift - The Fate of Ophelia",
+      "cover": "music/covers/Taylor%20Swift%20-%20The%20Fate%20of%20Ophelia.jpg",
+      "format": "OPUS + MP3",
+      "sources": [
+        {
+          "src": "music/tracks/Taylor%20Swift%20-%20The%20Fate%20of%20Ophelia.opus",
+          "type": "audio/ogg; codecs=\"opus\"",
+          "downloadName": "Taylor Swift - The Fate of Ophelia.opus"
+        },
+        {
+          "src": "music/backups/Taylor%20Swift%20-%20The%20Fate%20of%20Ophelia.mp3",
+          "type": "audio/mpeg",
+          "downloadName": "Taylor Swift - The Fate of Ophelia.mp3"
+        }
+      ]
+    },
+    {
       "title": "wiv - i love u",
       "cover": "music/covers/wiv%20-%20i%20love%20u.jpg",
       "format": "OPUS + MP3",
