@@ -1,0 +1,55 @@
+{
+  "tracks": [
+    {
+      "title": "Itzdisco - Into You X Bye (Altare Remix) (Mashup)",
+      "cover": "music/covers/Itzdisco%20-%20Into%20You%20X%20Bye%20%28Altare%20Remix%29%20%28Mashup%29.jpg",
+      "format": "OPUS + MP3",
+      "sources": [
+        {
+          "src": "music/tracks/Itzdisco%20-%20Into%20You%20X%20Bye%20%28Altare%20Remix%29%20%28Mashup%29.opus",
+          "type": "audio/ogg; codecs=\"opus\"",
+          "downloadName": "Itzdisco - Into You X Bye (Altare Remix) (Mashup).opus"
+        },
+        {
+          "src": "music/backups/Itzdisco%20-%20Into%20You%20X%20Bye%20%28Altare%20Remix%29%20%28Mashup%29.mp3",
+          "type": "audio/mpeg",
+          "downloadName": "Itzdisco - Into You X Bye (Altare Remix) (Mashup).mp3"
+        }
+      ]
+    },
+    {
+      "title": "Lady Gaga - Paparazzi",
+      "cover": "music/covers/Lady%20Gaga%20-%20Paparazzi.jpg",
+      "format": "OPUS + MP3",
+      "sources": [
+        {
+          "src": "music/tracks/Lady%20Gaga%20-%20Paparazzi.opus",
+          "type": "audio/ogg; codecs=\"opus\"",
+          "downloadName": "Lady Gaga - Paparazzi.opus"
+        },
+        {
+          "src": "music/backups/Lady%20Gaga%20-%20Paparazzi.mp3",
+          "type": "audio/mpeg",
+          "downloadName": "Lady Gaga - Paparazzi.mp3"
+        }
+      ]
+    },
+    {
+      "title": "wiv - i love u",
+      "cover": "music/covers/wiv%20-%20i%20love%20u.jpg",
+      "format": "OPUS + MP3",
+      "sources": [
+        {
+          "src": "music/tracks/wiv%20-%20i%20love%20u.opus",
+          "type": "audio/ogg; codecs=\"opus\"",
+          "downloadName": "wiv - i love u.opus"
+        },
+        {
+          "src": "music/backups/wiv%20-%20i%20love%20u.mp3",
+          "type": "audio/mpeg",
+          "downloadName": "wiv - i love u.mp3"
+        }
+      ]
+    }
+  ]
+}
