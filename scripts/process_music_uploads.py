@@ -57,7 +57,7 @@ def validate_opus(path):
 
     bitrate = int(media.get("format", {}).get("bit_rate", 0))
     if not 310_000 <= bitrate <= 360_000:
-        fail(f"{path}: 平均ビットレート {bitrate} bps は310～330 kbpsの範囲外です")
+        fail(f"{path}: 平均ビットレート {bitrate} bps は310～360 kbpsの範囲外です")
 
 
 def validate_mp3(path):
