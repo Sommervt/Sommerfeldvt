@@ -69,6 +69,23 @@
       ]
     },
     {
+      "title": "saraunh0ly - wutiwant",
+      "cover": "music/covers/saraunh0ly%20-%20wutiwant.jpg",
+      "format": "OPUS + MP3",
+      "sources": [
+        {
+          "src": "music/tracks/saraunh0ly%20-%20wutiwant.opus",
+          "type": "audio/ogg; codecs=\"opus\"",
+          "downloadName": "saraunh0ly - wutiwant.opus"
+        },
+        {
+          "src": "music/backups/saraunh0ly%20-%20wutiwant.mp3",
+          "type": "audio/mpeg",
+          "downloadName": "saraunh0ly - wutiwant.mp3"
+        }
+      ]
+    },
+    {
       "title": "Taylor Swift - The Fate of Ophelia",
       "cover": "music/covers/Taylor%20Swift%20-%20The%20Fate%20of%20Ophelia.jpg",
       "format": "OPUS + MP3",
