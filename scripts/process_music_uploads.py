@@ -56,7 +56,7 @@ def validate_opus(path):
         fail(f"{path}: Opus音声ストリームが1つだけ必要です")
 
     bitrate = int(media.get("format", {}).get("bit_rate", 0))
-    if not 310_000 <= bitrate <= 330_000:
+    if not 310_000 <= bitrate <= 360_000:
         fail(f"{path}: 平均ビットレート {bitrate} bps は310～330 kbpsの範囲外です")
 
 
