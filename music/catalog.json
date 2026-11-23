@@ -1,6 +1,23 @@
 {
   "tracks": [
     {
+      "title": "Calvin Harris - This Is What You Came For",
+      "cover": "music/covers/Calvin%20Harris%20-%20This%20Is%20What%20You%20Came%20For.jpg",
+      "format": "OPUS + MP3",
+      "sources": [
+        {
+          "src": "music/tracks/Calvin%20Harris%20-%20This%20Is%20What%20You%20Came%20For.opus",
+          "type": "audio/ogg; codecs=\"opus\"",
+          "downloadName": "Calvin Harris - This Is What You Came For.opus"
+        },
+        {
+          "src": "music/backups/Calvin%20Harris%20-%20This%20Is%20What%20You%20Came%20For.mp3",
+          "type": "audio/mpeg",
+          "downloadName": "Calvin Harris - This Is What You Came For.mp3"
+        }
+      ]
+    },
+    {
       "title": "Itzdisco - Into You X Bye (Altare Remix) (Mashup)",
       "cover": "music/covers/Itzdisco%20-%20Into%20You%20X%20Bye%20%28Altare%20Remix%29%20%28Mashup%29.jpg",
       "format": "OPUS + MP3",
