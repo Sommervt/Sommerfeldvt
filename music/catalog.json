@@ -18,6 +18,23 @@
       ]
     },
     {
+      "title": "Charlie Puth - Attention",
+      "cover": "music/covers/Charlie%20Puth%20-%20Attention.jpg",
+      "format": "OPUS + MP3",
+      "sources": [
+        {
+          "src": "music/tracks/Charlie%20Puth%20-%20Attention.opus",
+          "type": "audio/ogg; codecs=\"opus\"",
+          "downloadName": "Charlie Puth - Attention.opus"
+        },
+        {
+          "src": "music/backups/Charlie%20Puth%20-%20Attention.mp3",
+          "type": "audio/mpeg",
+          "downloadName": "Charlie Puth - Attention.mp3"
+        }
+      ]
+    },
+    {
       "title": "Itzdisco - Into You X Bye (Altare Remix) (Mashup)",
       "cover": "music/covers/Itzdisco%20-%20Into%20You%20X%20Bye%20%28Altare%20Remix%29%20%28Mashup%29.jpg",
       "format": "OPUS + MP3",
